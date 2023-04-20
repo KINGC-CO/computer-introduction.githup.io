@@ -1,1 +1,1 @@
-# computer introduction.githup.io
+# computer.githup.io
